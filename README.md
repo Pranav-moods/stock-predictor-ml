@@ -1,8 +1,8 @@
-📈 Stock Price Prediction using XGBoost & CatBoost
+📈 Stock Price Prediction using XGBoost & CatBoost  
 This project leverages machine learning models—XGBoost Regressor and CatBoost Regressor—to predict stock prices based on historical market data. After extensive tuning and validation, the best-performing model achieves an R² score of ~0.76, indicating a reasonably strong predictive capability.
 
---Project Overview
-Dataset: Historical stock price data (with features like Open, High, Low, Volume, etc.).  
+--Project Overview  
+Dataset: Historical stock price data (with features like Open, High, Low, Volume, etc.).    
 
 Approach: Trained and tuned multiple ML regression models using GridSearchCV and RandomizedSearchCV.  
 
@@ -58,5 +58,5 @@ R² Score: Measures variance explained by the model.
 
 -Accuracy (R² ≈ 0.76) is decent but not reliable enough for real-time trading.
 
-📌 How to Run
+📌 How to Run  
 -Clone the repo and Run jupyter notebook 
