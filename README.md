@@ -40,7 +40,7 @@ RMSE (Root Mean Squared Error): Penalizes large errors more heavily.
 R² Score: Measures variance explained by the model.
 
 📁 Project Structure
-├── stonks.ipynb               # Main Jupyter Notebook
+├── stonks predict.ipynb               # Main Jupyter Notebook
 ├── README.md                  # Project overview
 ├── TCS.csv                    # Data files directory
 
